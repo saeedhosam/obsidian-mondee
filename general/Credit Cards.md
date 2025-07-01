@@ -1,0 +1,4 @@
+- Visa start with 4
+- Mastercard starts with 5
+- American Express starts with either 34 or 37
+- Discover starts with 6

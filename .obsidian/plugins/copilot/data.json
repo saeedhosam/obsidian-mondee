@@ -33,15 +33,15 @@
   "includeActiveNoteAsContext": true,
   "defaultOpenArea": "view",
   "customPromptsFolder": "copilot-custom-prompts",
-  "indexVaultToVectorStore": "ON MODE SWITCH",
-  "qaExclusions": "",
+  "indexVaultToVectorStore": "ON STARTUP",
+  "qaExclusions": "nvim",
   "qaInclusions": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],
   "enableIndexSync": true,
   "debug": false,
   "enableEncryption": false,
-  "maxSourceChunks": 3,
+  "maxSourceChunks": 32,
   "groqApiKey": "",
   "activeModels": [
     {
