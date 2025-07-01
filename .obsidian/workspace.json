@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "airlines/KL.md",
+                "file": "methods/Worldspan LH-LS-LX Pricing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KL"
+              "title": "Worldspan LH-LS-LX Pricing"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "airlines/KL.md",
+                "file": "methods/Worldspan LH-LS-LX Pricing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KL"
+              "title": "Backlinks for Worldspan LH-LS-LX Pricing"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "airlines/KL.md",
+                "file": "methods/Worldspan LH-LS-LX Pricing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from KL"
+              "title": "Outgoing links from Worldspan LH-LS-LX Pricing"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "airlines/KL.md",
+                "file": "methods/Worldspan LH-LS-LX Pricing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of KL"
+              "title": "Outline of Worldspan LH-LS-LX Pricing"
             }
           }
         ]
@@ -165,11 +165,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a42cd1662754338",
+  "active": "09ad4c78da76fff2",
   "lastOpenFiles": [
+    "README.md",
+    "methods/Worldspan LH-LS-LX Pricing.md",
+    "airlines/KL.md",
+    "methods",
     "airlines/F9-NK-SY.md",
     "airlines/HU.md",
     "airlines/IB.md",
@@ -193,8 +199,6 @@
     "airlines/SV.md",
     "airlines/RJ.md",
     "airlines/DL.md",
-    "airlines/AF.md",
-    "airlines/KL.md",
     "cases",
     "airlines"
   ]
