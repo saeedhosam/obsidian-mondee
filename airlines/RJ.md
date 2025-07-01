@@ -1,11 +1,12 @@
-# Information
+# BACKGROUND
 
-## Restrictions
+- Names: Royal Jordanian Airlines
+
+## RESTRICTIONS
 
 We must not issue/exchange any tickets on cash, and a VCC (virtual credit card) must be obtained from Mondee App.
 
-## Fares
-
+## FARES
 - There's something called `brand fares`, it has `ECSAV` with one bag `ECVALU` with two bags.
 - There are three fares:
 	- `SAVER`: with 1 bag
@@ -21,7 +22,7 @@ We must not issue/exchange any tickets on cash, and a VCC (virtual credit card) 
 - Cannot be priced in WR17 but you will need to ticket it from there. To price, you'll need to change your screen to `T7IG` (NYC) using `AAAT7IG` in Sabre. After saving the price, you should be able to issue the ticket from `WR17`.
 
 ---
-## Monthly Blanket Waiver
+## MONTHLY BLANKET WAIVER
 
 - **Waiver Code:** JOI606202529DA 
 - **Valid:** 01JUL25

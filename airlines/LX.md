@@ -1,3 +1,8 @@
+# BACKGROUND
+
+- Name: Swiss International Air Lines
+
+---
 ## RESTRICTIONS
 
 LH Group tickets are issued only from the following offices:

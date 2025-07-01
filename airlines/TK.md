@@ -1,6 +1,9 @@
-# Information
+# BACKGROUND
 
-## Waiver for Qatar, UAE, Kuwait, Bahrain, Oman, and Damman Flights
+- Name: Turkish Airlines
+
+---
+## WAIVER FOR QATAR, UAE, KUWAIT, BAHRAIN, OMAN, AND DAMMAN FLIGHTS
 
 Due to the current situation affecting Qatar, United Arab Emirates, Kuwait, Bahrain, Oman & Dammam flights, we have established special waiver conditions for ticket changes. This applies to all Turkish Airlines passengers with reservations to/from these countries between June 23 - 30, 2025 (included) and for tickets issued on/before June 23, 2025, provided that their tickets are reissued until June 30, 2025 (included).
 

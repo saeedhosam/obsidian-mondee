@@ -1,7 +1,9 @@
-# Information
+# BACKGROUND
+
+- Name: Qatar Airways
 
 ---
-## Waiver
+## WAIVER
 
 - Effective Date: Wednesday, 25th June 2025
 

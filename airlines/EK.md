@@ -1,7 +1,9 @@
-# Information
+# BACKGROUND
+
+- Name: Emirates Airlines
 
 ---
-## Waiver: Due to Iran's Situation
+## WAIVER: DUE TO IRAN'S SITUATION
 
 _Rebooking Options Due to Iran / Iraq / Israel Airspace Closure_
 

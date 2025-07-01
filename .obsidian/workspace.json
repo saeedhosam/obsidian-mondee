@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92c9c9667b0f3bb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "airlines/UA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UA"
-            }
-          },
-          {
             "id": "2c3ded870e1544b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methods/MCO.md",
+                "file": "airlines/VS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCO"
+              "title": "VS"
             }
           }
         ]
@@ -156,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "airlines/UA.md",
+                "file": "airlines/VS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UA"
+              "title": "Outline of VS"
             }
           },
           {
@@ -186,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 423.5,
-    "collapsed": true
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,43 +190,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92c9c9667b0f3bb5",
+  "active": "2c3ded870e1544b3",
   "lastOpenFiles": [
-    "airlines/LX.md",
-    "airlines/OS.md",
-    "airlines/LH.md",
-    "general/Mondee's Virtual Credit Card (VCC).md",
-    "methods/MCO.md",
-    "general/Credit Cards.md",
-    "airlines/RJ.md",
-    "airlines/ME.md",
-    "airlines/AC.md",
-    "airlines/AL.md",
-    "airlines/Untitled",
+    "airlines/UA.md",
     "airlines/TK.md",
-    "airlines/EK.md",
+    "airlines/SV.md",
+    "airlines/RJ.md",
     "airlines/QR.md",
-    "gds/sabre/Offices and Screens.md",
+    "airlines/OS.md",
+    "airlines/MS.md",
+    "airlines/ME.md",
+    "airlines/LX.md",
+    "airlines/LH.md",
+    "airlines/KL.md",
+    "airlines/IB.md",
+    "airlines/HU.md",
+    "airlines/FZ.md",
+    "airlines/F9-NK-SY.md",
+    "airlines/EY.md",
+    "airlines/ET.md",
+    "airlines/EK.md",
+    "airlines/DL.md",
+    "airlines/B6.md",
+    "airlines/AZ.md",
     "airlines/AT.md",
-    "gds/Untitled.md",
+    "airlines/AS.md",
+    "airlines/AL.md",
+    "airlines/AF.md",
+    "airlines/AC.md",
+    "airlines/Untitled",
     "gds/worldspan",
     "gds/sabre",
     "gds/amadeus",
     "gds",
-    "README.md",
     "utils/nvim/lua/plugins/nvim-tree.lua~",
     "utils/nvim/lua/plugins/oil.lua~",
     "utils/alacritty/alacritty.toml~",
     "utils/nvim/lazy-lock.json",
-    "methods/Worldspan LH-LS-LX Pricing.md",
-    "utils/alacritty/alacritty.toml",
-    "nvim/info.md",
-    "airlines/KL.md",
-    "airlines/F9-NK-SY.md",
-    "airlines/HU.md",
-    "airlines/IB.md",
-    "airlines/B6.md",
-    "airlines/FZ.md",
-    "airlines/AS.md"
+    "utils/alacritty/alacritty.toml"
   ]
 }
