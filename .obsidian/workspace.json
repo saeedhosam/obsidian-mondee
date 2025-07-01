@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nvim/info.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "info"
+              "title": "README"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,21 +180,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4e2502b47d18fee",
+  "active": "09ad4c78da76fff2",
   "lastOpenFiles": [
-    "nvim/lua/plugins/mason.lua",
-    "nvim/lua/plugins/mason.lua~",
-    "nvim/lua/plugins/bufferline.lua",
+    "nvim/lua/plugins/yazi.lua",
+    "nvim/lua/plugins/which-key.lua",
+    "nvim/lua/plugins/web-devicons.lua",
+    "nvim/lua/plugins/vim-tmux-navigator.lua",
     "nvim/lua/plugins/ui.lua",
-    "nvim/lua/plugins/base46.lua",
-    "nvim/lua/plugins/init.lua",
-    "nvim/lua/config/lazy.lua",
-    "nvim/lua/autocmds.lua",
-    "nvim/lua/mappings.lua",
-    "nvim/lua/options.lua",
-    "nvim/lua/chadrc.lua",
-    "README.md",
+    "nvim/lua/plugins/treesitter.lua",
+    "nvim/lua/plugins/toggleterm.lua",
+    "nvim/lua/plugins/todo-comments.lua",
+    "nvim/lua/plugins/telescope.lua",
+    "nvim/lua/plugins/set-blankline.lua",
+    "nvim/lua/plugins/oil.lua",
     "nvim/info.md",
+    "README.md",
     "methods/Worldspan LH-LS-LX Pricing.md",
     "airlines/KL.md",
     "airlines/F9-NK-SY.md",
