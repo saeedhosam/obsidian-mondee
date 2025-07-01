@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd021d8dca92e453",
+        "id": "93562f4b3844e7a0",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3ded870e1544b3",
+            "id": "bd54c547efb1eb53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "airlines/VS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "VS"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "airlines/VS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of VS"
+              "title": "Outline"
             }
           },
           {
@@ -190,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c3ded870e1544b3",
+  "active": "bd54c547efb1eb53",
   "lastOpenFiles": [
+    "airlines/VS.md",
     "airlines/UA.md",
     "airlines/TK.md",
     "airlines/SV.md",
@@ -217,7 +213,6 @@
     "airlines/AS.md",
     "airlines/AL.md",
     "airlines/AF.md",
-    "airlines/AC.md",
     "airlines/Untitled",
     "gds/worldspan",
     "gds/sabre",
