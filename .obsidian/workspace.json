@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methods/Worldspan LH-LS-LX Pricing.md",
+                "file": "nvim/info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Worldspan LH-LS-LX Pricing"
+              "title": "info"
             }
           }
         ]
@@ -170,12 +170,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09ad4c78da76fff2",
+  "active": "1a42cd1662754338",
   "lastOpenFiles": [
+    "nvim/lua/plugins/mason.lua",
+    "nvim/lua/plugins/mason.lua~",
+    "nvim/lua/plugins/bufferline.lua",
+    "nvim/lua/plugins/ui.lua",
+    "nvim/lua/plugins/base46.lua",
+    "nvim/lua/plugins/init.lua",
+    "nvim/lua/config/lazy.lua",
+    "nvim/lua/autocmds.lua",
+    "nvim/lua/mappings.lua",
+    "nvim/lua/options.lua",
+    "nvim/lua/chadrc.lua",
     "README.md",
+    "nvim/info.md",
     "methods/Worldspan LH-LS-LX Pricing.md",
     "airlines/KL.md",
-    "methods",
     "airlines/F9-NK-SY.md",
     "airlines/HU.md",
     "airlines/IB.md",
@@ -196,10 +207,6 @@
     "airlines/LH.md",
     "airlines/TK.md",
     "airlines/MS.md",
-    "airlines/SV.md",
-    "airlines/RJ.md",
-    "airlines/DL.md",
-    "cases",
-    "airlines"
+    "airlines/SV.md"
   ]
 }
