@@ -1,8 +1,13 @@
+# Background
 
-It does not have NET fares, even if the system brought up NET fare.
-Lufthansa from HOU
+---
+## RESTRICTIONS
 
-Westbound: to the Eest. 10% plus-up on PUB
-Eastbound: to the East. 10% COMM and has NET fare
-Cannot be priced in WR17 but you can ticket it from there.
-T7IG (NYC) AAAT7IG
+LH Group tickets are issued only from the following offices:
+- Amadeus: `HOU02100`
+- Sabre: `Y98F` and `470H`
+
+---
+## FARES
+
+- NET fares are not applicable on LH, and if the system does price it, this pricing is not valid or at least we cannot issue it from our side.

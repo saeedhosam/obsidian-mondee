@@ -6,7 +6,14 @@ We must not issue/exchange any tickets on cash, and a VCC (virtual credit card) 
 
 ## Fares
 
-- There's something called `brand fares`, it has ECSAV with one bag ECVALU with two bags.
+- There's something called `brand fares`, it has `ECSAV` with one bag `ECVALU` with two bags.
+- There are three fares:
+	- `SAVER`: with 1 bag
+	- `VALUE`: with 2 bags
+	- `FELIX`: with 2 bags and different rules
+- `WPPJCB¥BRECVALUE` (Sabre) == `WPA`, and you can replace `VALUE` with `SAVER` or `FELIX`
+- `FXP/FF-ECVALUE` (Amadeus) == `FXY`, and you can replace `VALUE` with `SAVER` or `FELIX`
+- Don't forget to add the COMM if there any.
 
 - Westbound: to the West. Can add 10% plus-up on PUB fares.
 - Eastbound: to the East. There's 10% COMM on PUB fares and has NET fares.
