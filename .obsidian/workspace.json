@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a276c919ca492ff",
+        "id": "671705c6b1a9dd47",
         "type": "tabs",
         "children": [
           {
-            "id": "e1dd00b8beb00755",
+            "id": "e160c7811745fbb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "airlines/RJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "RJ"
             }
           }
         ]
@@ -160,6 +160,16 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "c262c1260a2e8f02",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 4
@@ -180,12 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1dd00b8beb00755",
+  "active": "e160c7811745fbb2",
   "lastOpenFiles": [
+    "airlines/RJ.md",
+    "README.md",
+    "utils/nvim/lua/plugins/nvim-tree.lua~",
+    "utils/nvim/lua/plugins/oil.lua~",
     "utils/alacritty/alacritty.toml~",
     "utils/nvim/lazy-lock.json",
     "methods/Worldspan LH-LS-LX Pricing.md",
-    "README.md",
     "utils/alacritty/alacritty.toml",
     "utils/alacritty",
     "general/Credit Cards.md",
@@ -193,9 +206,6 @@
     "general",
     "utils/nvim/lua/plugins/yazi.lua",
     "utils/nvim/lua/plugins/which-key.lua",
-    "utils/nvim/lua/plugins/web-devicons.lua",
-    "utils/nvim/lua/plugins/vim-tmux-navigator.lua",
-    "utils/nvim/lua/plugins/ui.lua",
     "nvim/info.md",
     "airlines/KL.md",
     "airlines/F9-NK-SY.md",
