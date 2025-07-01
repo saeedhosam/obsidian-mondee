@@ -1,11 +1,25 @@
 # Information
+
+## Restrictions
+
+We must not issue/exchange any tickets on cash, and a VCC (virtual credit card) must be obtained from Mondee App.
+
+## Fares
+
+- There's something called `brand fares`, it has ECSAV with one bag ECVALU with two bags.
+
+- Westbound: to the West. Can add 10% plus-up on PUB fares.
+- Eastbound: to the East. There's 10% COMM on PUB fares and has NET fares.
+
+- Cannot be priced in WR17 but you will need to ticket it from there. To price, you'll need to change your screen to `T7IG` (NYC) using `AAAT7IG` in Sabre. After saving the price, you should be able to issue the ticket from `WR17`.
+
+---
 ## Monthly Blanket Waiver
 
-- Waiver Code: JOI606202529DA 
-- Valid: 01JUL25
-- Expires: 31JUL25
-
-[Email](https://mail.google.com/mail/u/0/#search/rfc822msgid:GV2PR08MB800435D10B5A4D37827E0E2B9E41A@GV2PR08MB8004.eurprd08.prod.outlook.com)
+- **Waiver Code:** JOI606202529DA 
+- **Valid:** 01JUL25
+- **Expires:** 31JUL25
+- [Original Email](https://mail.google.com/mail/u/0/#search/rfc822msgid:GV2PR08MB800435D10B5A4D37827E0E2B9E41A@GV2PR08MB8004.eurprd08.prod.outlook.com)
 
 In an effort to minimize the impact of schedule changes, Royal Jordanian is pleased to offer a monthly blackout waiver to be used as following:
 

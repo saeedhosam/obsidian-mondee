@@ -1,0 +1,1 @@
+Cannot price child on Amadeus, but there's a special fare.

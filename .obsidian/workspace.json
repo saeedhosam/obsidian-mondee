@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "671705c6b1a9dd47",
+        "id": "bd021d8dca92e453",
         "type": "tabs",
         "children": [
           {
-            "id": "e160c7811745fbb2",
+            "id": "92c9c9667b0f3bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "airlines/ME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ME"
+            }
+          },
+          {
+            "id": "1310325baadb512c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "methods/Worldspan LH-LS-LX Pricing.md",
+                "file": "airlines/ME.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Worldspan LH-LS-LX Pricing"
+              "title": "Outline of ME"
             }
           },
           {
@@ -172,11 +186,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 423.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +205,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e160c7811745fbb2",
+  "active": "92c9c9667b0f3bb5",
   "lastOpenFiles": [
+    "airlines/AC.md",
+    "airlines/ME.md",
+    "airlines/AL.md",
+    "airlines/Untitled",
+    "airlines/TK.md",
+    "airlines/EK.md",
+    "airlines/QR.md",
     "airlines/RJ.md",
+    "gds/sabre/Offices and Screens.md",
+    "airlines/LH.md",
+    "airlines/AT.md",
+    "gds/Untitled.md",
+    "gds/worldspan",
+    "gds/sabre",
+    "general/Mondee's Virtual Credit Card (VCC).md",
+    "gds/amadeus",
+    "gds",
+    "general/Credit Cards.md",
     "README.md",
     "utils/nvim/lua/plugins/nvim-tree.lua~",
     "utils/nvim/lua/plugins/oil.lua~",
@@ -200,12 +232,6 @@
     "utils/nvim/lazy-lock.json",
     "methods/Worldspan LH-LS-LX Pricing.md",
     "utils/alacritty/alacritty.toml",
-    "utils/alacritty",
-    "general/Credit Cards.md",
-    "utils",
-    "general",
-    "utils/nvim/lua/plugins/yazi.lua",
-    "utils/nvim/lua/plugins/which-key.lua",
     "nvim/info.md",
     "airlines/KL.md",
     "airlines/F9-NK-SY.md",
@@ -214,19 +240,8 @@
     "airlines/B6.md",
     "airlines/FZ.md",
     "airlines/AS.md",
-    "airlines/AC.md",
     "airlines/AZ.md",
     "airlines/LX.md",
-    "airlines/ET.md",
-    "airlines/VS.md",
-    "airlines/AT.md",
-    "airlines/EY.md",
-    "airlines/EK.md",
-    "airlines/AA.md",
-    "airlines/UA.md",
-    "airlines/QR.md",
-    "airlines/LH.md",
-    "airlines/TK.md",
-    "airlines/MS.md"
+    "airlines/ET.md"
   ]
 }
