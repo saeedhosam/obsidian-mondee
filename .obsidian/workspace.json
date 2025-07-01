@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Worldspan LH-LS-LX Pricing"
             }
+          },
+          {
+            "id": "e4e2502b47d18fee",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a42cd1662754338",
+  "active": "e4e2502b47d18fee",
   "lastOpenFiles": [
     "nvim/lua/plugins/mason.lua",
     "nvim/lua/plugins/mason.lua~",
