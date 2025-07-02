@@ -191,6 +191,9 @@
   },
   "active": "bd54c547efb1eb53",
   "lastOpenFiles": [
+    "cases/1-flyxability-B86VRU.md~",
+    "cases/1-flyxability-B86VRU.md",
+    "cases",
     "airlines/VS.md",
     "airlines/UA.md",
     "airlines/TK.md",
@@ -215,8 +218,6 @@
     "airlines/AZ.md",
     "airlines/AT.md",
     "airlines/AS.md",
-    "airlines/AL.md",
-    "airlines/AF.md",
     "airlines/Untitled",
     "gds/worldspan",
     "gds/sabre",
@@ -225,7 +226,6 @@
     "utils/nvim/lua/plugins/nvim-tree.lua~",
     "utils/nvim/lua/plugins/oil.lua~",
     "utils/alacritty/alacritty.toml~",
-    "utils/nvim/lazy-lock.json",
-    "utils/alacritty/alacritty.toml"
+    "utils/nvim/lazy-lock.json"
   ]
 }
