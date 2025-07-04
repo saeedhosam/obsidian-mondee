@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-# Reviewing Cases
+# QC Items
 
 ## Issues
 
@@ -13,5 +13,5 @@ tags: []
 
 1. Check the office (it has to be the same office)
 
----
+--
 ## Refunds

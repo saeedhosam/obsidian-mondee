@@ -10,3 +10,8 @@
 8. Enter the VCC amount for the sum of transactions you're gonna charge
 
 - It is ok to leave the CC on the booking.
+
+- Remember that you'll need 3 additional things from the agent:
+    - Card Holder's Name
+    - Card Security Code (CVC)
+    - ZIP Code
